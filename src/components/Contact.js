@@ -1,22 +1,16 @@
-import React, {useState} from 'react';
+import React, { useState } from "react";
 
 function Contact() {
-    return (
-      <section className="contact-me" id="contact-me">
-      <h2 className="contact-header">Contact</h2>
+  return (
+    <section className="contact-me" id="contact-me">
+      <h2 className="contact-header">Contact Information</h2>
       <div className="contact-content">
-        <h3>
-          Contact me through e-mail with the button below!
-        </h3>
-        <p>Email: dyu4848@gmail.com</p>
-        <br/>
-        <a href="mailto:dyu4848@gmail.com" >
-        <div className='btn-container'>
-          <button className="email-btn">Email Me!</button>
-          </div>
-        </a>
-        </div>
-        </section>
-    )}
+      <h3 className="e-mail">Email: Dyu4848@gmail.com</h3>
+      <h3 className="phone-number">Phone: (201) - 744 - 9150</h3>
+      <h3 className="slack">Slack: Dyu4848@gmail.com</h3>
+      </div>
+    </section>
+  );
+}
 
-    export default Contact;
+export default Contact;

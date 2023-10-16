@@ -22,9 +22,7 @@ function Navbar() {
           <Link to="/portfolio">
           <li class="work">Projects</li>
           </Link>
-          <Link to="/resume">
-          <li class="resume">Resume</li>
-          </Link>
+          <li class="resume"><a href="../images/final-resume.pdf" target="_blank">Resume</a></li>
           <Link to="/contact">
           <li class="contact">Contact</li>
           </Link>

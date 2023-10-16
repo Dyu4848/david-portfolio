@@ -32,10 +32,11 @@ ul {
   transform: translateX(-60%);
 }
 
-a:visited { text-decoration: none; color:black; }
-a:hover { text-decoration: none; color:black; }
-a:focus { text-decoration: none; color:black; }
-a:hover, a:active { text-decoration: none; color:black }
+.resume a { text-decoration: none; color: white;}
+.resume a:visited { text-decoration: none; color:white; }
+.resume a:hover { text-decoration: none; color:white; }
+.resume a:focus { text-decoration: none; color:white; }
+.resume a:hover, .resume a:active { text-decoration: none; color:white }
 
 h1 {
   font-family: 'Alegreya Sans', sans-serif;
@@ -821,3 +822,40 @@ top: 420px;
   margin-left: -7%;
 }
 
+/* Contact Section */
+
+.contact-me {
+  margin-left: 50%;
+  margin-top: 9%;
+  transform: translateX(-45%);
+  width: 500px;
+  height: 300px;
+  border: #00000066 solid;
+}
+
+.contact-header {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.e-mail {
+  display: flex;
+  justify-content: start;
+  margin-left: 10%;
+  margin-top: 7%;
+}
+
+.phone-number {
+  display: flex;
+  justify-content: start;
+  margin-top: 4%;
+  margin-left: 10%;
+}
+
+.slack {
+  display: flex;
+  justify-content: start;
+  margin-top: 4%;
+  margin-left: 10%;
+}
