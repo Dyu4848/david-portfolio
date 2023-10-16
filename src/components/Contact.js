@@ -7,6 +7,7 @@ function Contact() {
       <div className="contact-content">
       <h3 className="e-mail">Email: Dyu4848@gmail.com</h3>
       <h3 className="phone-number">Phone: (201) - 744 - 9150</h3>
+      <h3 className="github-contact">Github: Dyu4848</h3>
       <h3 className="slack">Slack: Dyu4848@gmail.com</h3>
       </div>
     </section>

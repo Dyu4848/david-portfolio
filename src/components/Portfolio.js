@@ -30,7 +30,7 @@ function Portfolio() {
 </div>
 <div id="stock-modal" class="stock-modal">
     <div className="stock__content">
-        <h2 className="modal-header">Car Marketplace</h2>
+        <h2 className="modal-header">Stock Chart</h2>
         <br></br>
         <p>
           This interface is a stock chart that provides the user with a simple interface, allowing the consumers to read their stock progression with all of their relevant information present. I made sure to pick colors that will allow users to be able to clearly distinguish between their positives and negatives. During my wireframing, I made sure to to create sections that would orient the frame in a clean and visually appealing interface.
