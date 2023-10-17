@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a3858202.css",
-    "main.js": "/react-gh-pages/static/js/main.ffd2696a.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a3858202.css.map": "/react-gh-pages/static/css/main.a3858202.css.map",
-    "main.ffd2696a.js.map": "/react-gh-pages/static/js/main.ffd2696a.js.map"
+    "main.css": "/david-portfolio/static/css/main.a3858202.css",
+    "main.js": "/david-portfolio/static/js/main.ffd2696a.js",
+    "index.html": "/david-portfolio/index.html",
+    "main.a3858202.css.map": "/david-portfolio/static/css/main.a3858202.css.map",
+    "main.ffd2696a.js.map": "/david-portfolio/static/js/main.ffd2696a.js.map"
   },
   "entrypoints": [
     "static/css/main.a3858202.css",
