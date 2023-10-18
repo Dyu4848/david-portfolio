@@ -460,7 +460,7 @@ margin-top: 360px;
 
 .car-wrapper {
 position: absolute;
-left: 1000px;
+left: 900px;
 top: 420px;
 }
 
@@ -474,6 +474,23 @@ top: 420px;
   color: #585858;
   font-family: 'Roboto', sans-serif;
 }
+
+.car-visit {
+  position: absolute;
+  top: 435px;
+  left: 1100px;
+  color: #585858;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  cursor: pointer;
+  user-select: none;
+}
+
+.car-visit a { text-decoration: none; color: #585858;}
+.car-visit a:visited { text-decoration: none; color:#585858; }
+.car-visit a:hover { text-decoration: none; color:#585858; }
+.car-visit a:focus { text-decoration: none; color:#585858; }
+.car-visit a:hover, .car-visit a:active { text-decoration: none; color:#585858 }
 
 .car-modal {
   visibility: hidden;
@@ -581,7 +598,7 @@ top: 420px;
 
 .stock-wrapper {
   position: absolute;
-  left: 1000px;
+  left: 900px;
   top: 880px;
   }
   
@@ -595,6 +612,23 @@ top: 420px;
     color: #585858;
     font-family: 'Roboto', sans-serif;
   }
+
+  .stock-visit {
+    position: absolute;
+    top: 895px;
+    left: 1100px;
+    color: #585858;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    cursor: pointer;
+    user-select: none;
+  }
+
+.stock-visit a { text-decoration: none; color: #585858;}
+.stock-visit a:visited { text-decoration: none; color:#585858; }
+.stock-visit a:hover { text-decoration: none; color:#585858; }
+.stock-visit a:focus { text-decoration: none; color:#585858; }
+.stock-visit a:hover, .stock-visit a:active { text-decoration: none; color:#585858 }
   
   .stock-modal {
     visibility: hidden;
@@ -652,7 +686,7 @@ top: 420px;
 
 .social-wrapper {
   position: absolute;
-  left: 1000px;
+  left: 900px;
   top: 1320px;
   }
   
@@ -666,6 +700,23 @@ top: 420px;
     color: #585858;
     font-family: 'Roboto', sans-serif;
   }
+
+  .social-visit {
+    position: absolute;
+    top: 1335px;
+    left: 1100px;
+    color: #585858;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    cursor: pointer;
+    user-select: none;
+  }
+
+.social-visit a { text-decoration: none; color: #585858;}
+.social-visit a:visited { text-decoration: none; color:#585858; }
+.social-visit a:hover { text-decoration: none; color:#585858; }
+.social-visit a:focus { text-decoration: none; color:#585858; }
+.social-visit a:hover, .social-visit a:active { text-decoration: none; color:#585858 }
   
   .social-modal {
     visibility: hidden;
@@ -741,7 +792,7 @@ top: 420px;
 
 .shoe-wrapper {
   position: absolute;
-  left: 1000px;
+  left: 900px;
   top: 1760px;
   }
   
@@ -755,6 +806,23 @@ top: 420px;
     color: #585858;
     font-family: 'Roboto', sans-serif;
   }
+
+  .shoe-visit {
+    position: absolute;
+    top: 1775px;
+    left: 1100px;
+    color: #585858;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    cursor: pointer;
+    user-select: none;
+  }
+
+.shoe-visit a { text-decoration: none; color: #585858;}
+.shoe-visit a:visited { text-decoration: none; color:#585858; }
+.shoe-visit a:hover { text-decoration: none; color:#585858; }
+.shoe-visit a:focus { text-decoration: none; color:#585858; }
+.shoe-visit a:hover, .shoe-visit a:active { text-decoration: none; color:#585858 }
   
   .shoe-modal {
     visibility: hidden;
